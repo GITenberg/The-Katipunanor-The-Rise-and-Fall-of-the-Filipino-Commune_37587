@@ -1,0 +1,28 @@
+_repo: The-Katipunanor-The-Rise-and-Fall-of-the-Filipino-Commune_37587
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: St. Clair, Francis
+    alias: Watson, J. Brecknock
+    gutenberg_agent_id: '38930'
+    url: http://www.gutenberg.org/2009/agents/38930
+description: ''
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37587'
+  lccn: '03016030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Katipunan (Philippines) -- History'
+- !lcsh 'Revolutionaries -- Philippines -- Biography'
+- !lcc 'DS'
+- !lcsh 'Philippines -- History -- Revolution, 1896-1898'
+title: The Katipunan; or, The Rise and Fall of the Filipino Commune
+url: http://www.gutenberg.org/ebooks/37587
